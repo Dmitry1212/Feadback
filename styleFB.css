@@ -1,0 +1,14 @@
+.accepted {
+    background-color: #1c7430;
+}
+
+.moderate {
+    background-color: #973D3D;
+}
+
+.status {
+    width: 300px;
+    height: 30px;
+    margin-top: 40px;
+}
+
